@@ -1,0 +1,6 @@
+BookingID,Customer,Zone,Guests,Item,Category,Quantity,Revenue,Status
+1,Rohan Kulkarni,Patio,2,Mediterranean Grilled Sea Bass,Main Course,2,1700.0,Confirmed
+1,Rohan Kulkarni,Patio,2,Hummus & Warm Pita Platter,Starter,2,640.0,Confirmed
+2,Ananya Deshmukh,Main Dining,4,Lemon Herb Risotto,Main Course,3,1620.0,Confirmed
+3,Vikramaditya Rao,Main Dining,5,Mediterranean Grilled Sea Bass,Main Course,4,3400.0,Confirmed
+4,Meera Iyer,Private Room,7,Classic Tiramisu,Dessert,5,1450.0,Cancelled
